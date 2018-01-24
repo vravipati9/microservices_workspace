@@ -1,0 +1,23 @@
+2018-01-23 21:00:33,742 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:livelessons:0.0.1-SNAPSHOT @ /Users/sivaravipati/git/microservices_workspace/springboothello/pom.xml.
+2018-01-23 21:00:34,968 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboothello/src/main/java
+2018-01-23 21:00:34,970 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboothello/src/main/resources
+2018-01-23 21:00:34,976 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboothello/src/main/resources
+2018-01-23 21:00:34,992 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboothello/src/test/java
+2018-01-23 21:00:35,739 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2018-01-23 21:00:35,741 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-01-23 21:00:36,297 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:livelessons:0.0.1-SNAPSHOT @ /Users/sivaravipati/git/microservices_workspace/springboothello/pom.xml.
+2018-01-23 21:00:36,600 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboothello/src/main/java
+2018-01-23 21:00:36,600 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboothello/src/main/resources
+2018-01-23 21:00:36,601 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboothello/src/main/resources
+2018-01-23 21:00:36,601 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboothello/src/test/java
+2018-01-23 21:00:36,839 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-01-23 21:00:37,839 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-23 21:00:37,847 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-23 21:00:37,863 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-23 21:00:37,873 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-23 21:00:37,873 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sivaravipati/git/microservices_workspace/springboothello/src/test/resources
+2018-01-23 21:00:39,401 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-23 21:00:39,403 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-23 21:00:39,403 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-23 21:00:39,405 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-23 21:00:39,405 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sivaravipati/git/microservices_workspace/springboothello/src/test/resources
